@@ -14,4 +14,4 @@ MVVM stands for Model, View, ViewModel.
 •	View: It represents the UI of the application devoid of any Application Logic. It observes the ViewModel.
 •	ViewModel: It acts as a link between the Model and the View. It’s responsible for transforming the data from the Model. It provides data streams to the View. It also uses hooks or callbacks to update the View. It’ll ask for the data from the Model.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/VunYbIh" data-context="false" ><a href="//imgur.com/a/VunYbIh"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+https://imgur.com/uJlaogy
